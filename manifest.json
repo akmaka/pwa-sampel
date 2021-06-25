@@ -1,24 +1,24 @@
 {
   "name": "PWA Sample",
   "short_name": "PWA",
-  "start_url": "/?utm_source=pwa",
+  "start_url": "/pwa-sample/?utm_source=pwa",
   "display": "standalone",
   "theme_color": "#fc980c",
   "background_color": "#fff",
   "icons": [{
-      "src": "/common/img/icon-512-512.png",
+      "src": "/pwa-sample/common/img/icon-512-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },{
-      "src": "/common/img/icon-192-192.png",
+      "src": "/pwa-sample/common/img/icon-192-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },{
-      "src": "/common/img/icon-180-180.png",
+      "src": "/pwa-sample/common/img/icon-180-180.png",
       "sizes": "180x180",
       "type": "image/png"
     },{
-      "src": "/common/img/icon-maskable.png",
+      "src": "/pwa-sample/common/img/icon-maskable.png",
       "sizes": "196x196",
       "type": "image/png",
       "purpose": "maskable"
