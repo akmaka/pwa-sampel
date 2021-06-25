@@ -2,13 +2,12 @@
 
 // Service Worker のバージョンとキャッシュする App Shell を定義する
 var NAME = 'v1-';
-var VERSION = '20210625';
+var VERSION = '210625';
 var CACHE_NAME = NAME + VERSION;
 var urlsToCache = [
   '/pwa-sample/index.html',
   '/pwa-sample/common/js/main.js',
-  '/pwa-sample/common/css/main.css',
-  '/pwa-sample/common/img/logo.png'
+  '/pwa-sample/common/css/main.css'
 ];
 
 // Service Worker へファイルをインストール
