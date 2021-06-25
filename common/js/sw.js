@@ -2,7 +2,7 @@
 
 // Service Worker のバージョンとキャッシュする App Shell を定義する
 var NAME = 'v1-';
-var VERSION = '20210623';
+var VERSION = '20210625';
 var CACHE_NAME = NAME + VERSION;
 var urlsToCache = [
   '/index.html',
