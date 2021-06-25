@@ -5,10 +5,10 @@ var NAME = 'v1-';
 var VERSION = '20210625';
 var CACHE_NAME = NAME + VERSION;
 var urlsToCache = [
-  '/index.html',
-  '/common/js/main.js',
-  '/common/css/main.css',
-  '/common/img/logo.png'
+  '/pwa-sample/index.html',
+  '/pwa-sample/common/js/main.js',
+  '/pwa-sample/common/css/main.css',
+  '/pwa-sample/common/img/logo.png'
 ];
 
 // Service Worker へファイルをインストール
