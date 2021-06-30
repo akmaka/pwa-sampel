@@ -9,7 +9,7 @@ var appShellFiles = [
   '/pwa-sample/index.html',
   '/pwa-sample/common/js/main.js',
   '/pwa-sample/common/css/main.css',
-  '/pwa-sample/img/01.png'
+  '/pwa-sample/apple-touch-icon.png'
 ];
 
 // Service Worker へファイルをインストール
