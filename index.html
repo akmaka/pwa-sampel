@@ -17,5 +17,13 @@
 <h1 class="h1 text-center">Hello PWA!</h1>
 <p class="text-center"><img src="img/01.png" alt=""></p>
 <p class="text-center"><a class="btn btn--primary" href="p.html">p.html</a></p>
+<script src="https://sdk.push7.jp/v2/p7sdk.js"></script>
+<script>
+p7.init("6b5f174ed67740e99a959596d45763c0",{
+   mode:"native",
+   root: "/pwa-sample/",
+   subscribe:"auto"
+});
+</script>
 </body>
 </html>
