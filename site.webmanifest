@@ -25,9 +25,9 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ],
-  {
-    "gcm_sender_id": "781205625909",
-    "gcm_user_visible_only": true
-  }
+  ]
+},
+{
+  "gcm_sender_id": "781205625909",
+  "gcm_user_visible_only": true
 }
