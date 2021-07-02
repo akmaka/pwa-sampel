@@ -2,7 +2,7 @@
 // console.log('Hello from sw.js');
 
 // Service Worker のバージョンとキャッシュする App Shell を定義する
-var CACHE_NAME = 'pwa2-v1';
+var CACHE_NAME = 'pwa2-v2';
 var appShellFiles = [
   '/pwa-sample/',
   '/pwa-sample/common/js/main.js',
